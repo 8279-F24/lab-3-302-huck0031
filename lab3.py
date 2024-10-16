@@ -1,3 +1,5 @@
+from adafruit_circuitplayground import cp
+
 while True:
     
     # Prompt user for the number of LEDs
